@@ -1,0 +1,12 @@
+  <svg style="display: none">
+    <defs>
+      <filter id="svg-filter">
+        <fegaussianblur stddeviation="0"></fegaussianblur>
+        <feColorMatrix type="saturate" values="0"></feColorMatrix>
+      </filter>
+      <filter id="svg-filter-hover">
+        <fegaussianblur stddeviation="0"></fegaussianblur>
+        <feColorMatrix type="saturate" values="1"></feColorMatrix>
+      </filter>
+    </defs>
+  </svg>
