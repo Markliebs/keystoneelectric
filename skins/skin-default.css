@@ -1,0 +1,488 @@
+@charset "UTF-8";
+/**        ¬ classes         **/
+.bg-danger {
+  background-color: #236040;
+}
+
+.text-danger {
+  color: #236040;
+}
+
+/**        ¬ links         **/
+a.link-accent, .blog-tags > li a, a.post-comment__reply, .list-overview > li a {
+  color: #236040;
+  border-bottom-color: #236040;
+}
+
+a.link-title:hover, a.link-title:focus {
+  color: #236040;
+}
+
+/**        ¬ loader         **/
+.bg-init,
+.animsition-overlay {
+  background-color: #236040;
+}
+
+#preloader {
+  background: #236040;
+}
+
+/**        ¬ header         **/
+.navbar .navbar-header {
+  background-color: #236040;
+  color: #fff;
+}
+
+.navbar .navbar-brand__image .logo-font {
+  color: #fff;
+}
+
+.navbar .navbar-brand__text {
+  color: #fff;
+}
+
+.navbar .navbar-nav-user .cart-qty {
+  background-color: #236040;
+}
+
+.navbar-accent {
+  background-color: #236040;
+}
+
+.navbar-accent .navbar-brand {
+  color: #236040;
+}
+
+.navbar-accent .navbar-brand:hover, .navbar-accent .navbar-brand:focus {
+  color: #236040;
+}
+
+/**        ¬ section         **/
+.divider-decor,
+.divider-decor > * {
+  border-top-color: #236040;
+}
+
+.section-row-number:before {
+  border-color: #236040;
+}
+
+.section-header .divider:after,
+.contacts-panel-header .divider:after {
+  border-color: #236040;
+}
+
+.section-header--white .divider:after,
+.contacts-panel-header--white .divider:after {
+  border-color: #fff;
+}
+
+/**        ¬ intro pages         **/
+.intro-page-tuning:after {
+  background-color: #236040;
+}
+
+/**        ¬ parallax pattern         **/
+.parallax-repeat.accent:before {
+  background-color: #236040;
+}
+
+/**        ¬ section overlays         **/
+.bg-accent:after {
+  background-color: #236040;
+}
+
+/**        ¬ section quote         **/
+.section-quote {
+  color: #fff;
+}
+
+.section-quote__accent-over {
+  background-color: rgba(243, 53, 68, 0.7);
+}
+
+/**        ¬ repair service         **/
+.repair-row-service .img-wrap .icon,
+.services-features .img-wrap .icon {
+  color: #236040;
+}
+
+/**        ¬ contacts list         **/
+.contacts-list a {
+  color: inherit;
+}
+
+.contacts-list .icon {
+  color: #236040;
+}
+
+/**        ¬ post date         **/
+.flag-date {
+  color: #fff;
+  background-color: #236040;
+}
+
+.flag-date:after {
+  border-color: #236040;
+}
+
+/**        ¬ blog-tags         **/
+/**        ¬ post comment         **/
+/**        ¬ sections price         **/
+.section-pricing__list .cost {
+  color: #236040;
+}
+
+.section-pricing__list .pricing-card .over-hover-link .over {
+  background-color: #236040;
+}
+
+/**        ¬ instagram list         **/
+/**        ¬ list overview         **/
+/**        ¬ buttons         **/
+.btn i {
+  color: #fff;
+}
+
+.btn:hover i, .btn:focus i, .btn:active i, .btn:active:focus i {
+  color: #fff;
+}
+
+.btn-accent .btn-over {
+  background-color: #236040;
+}
+
+.btn-accent .btn-text {
+  color: #fff;
+}
+
+.btn-close__bar {
+  background-color: #236040;
+}
+
+/**        ¬ Breadcrumbs         **/
+.breadcrumb > li > a {
+  color: #236040;
+}
+
+/**        ¬ panels         **/
+.panel--accent {
+  background-color: #236040;
+}
+
+/**        ¬ question panel         **/
+.question-panel .panel-tab {
+  background-color: #236040;
+}
+
+/**        ¬ btn-controls         **/
+.btn-control.prev, .btn-control.next {
+  color: #fff;
+  background-color: #236040;
+}
+
+/**        ¬ carousel control         **/
+.control-carousel__dots > div > span:focus,
+.control-carousel__dots > div.active > span {
+  background-color: #236040;
+}
+
+/**        ¬ carousel track         **/
+.carousel-track .center .carousel-track__item:before {
+  border-color: #236040;
+}
+
+/**        ¬ lightbox controls         **/
+.blueimp-gallery > .close {
+  background-color: #236040;
+}
+
+.gallery-controls .indicator > li.active:after {
+  border-color: #236040;
+}
+
+/**        ¬ page pagination         **/
+.pagination > li > a,
+.pagination > li > span {
+  color: #236040;
+}
+
+/**        ¬ panel navbar gallery         **/
+.gallery-filter > li > a {
+  color: #236040;
+  border-color: #236040;
+}
+
+.gallery-filter > li > a:focus, .gallery-filter > li > a:active {
+  color: #fff;
+  background-color: #236040;
+  border-color: #236040;
+}
+
+/**        ¬ range slider         **/
+.price-slider .noUi-handle {
+  border-color: #236040;
+}
+
+.price-slider .noUi-connect {
+  background: #236040;
+}
+
+/**        ¬ checkbox and radio         **/
+.check-wrap .form-checkbox:checked + .fa {
+  color: #236040;
+}
+
+.radio-input .label-control .form-radio:checked + i:before {
+  background-color: #236040;
+}
+
+/**        ¬ subscribe         **/
+.form-modul .form-modul-btn {
+  color: #fff;
+  background-color: #236040;
+}
+
+/**        ¬ datepicker         **/
+.datepicker.datepicker-dropdown:after {
+  border-bottom: 6px solid #236040;
+}
+
+.datepicker table tr td.day:hover, .datepicker table tr td.day.focused {
+  background: #236040;
+  color: #fff;
+}
+
+.datepicker table tr td.today, .datepicker table tr td.today:hover, .datepicker table tr td.today.disabled, .datepicker table tr td.today.disabled:hover {
+  color: #fff;
+  background-color: #236040;
+  border-color: #236040;
+  background-image: none;
+}
+
+.datepicker table tr td.today:focus, .datepicker table tr td.today:active, .datepicker table tr td.today.active, .datepicker table tr td.today:hover:focus, .datepicker table tr td.today:hover:active, .datepicker table tr td.today:hover.active, .datepicker table tr td.today.disabled:focus, .datepicker table tr td.today.disabled:active, .datepicker table tr td.today.disabled.active, .datepicker table tr td.today.disabled:hover:focus, .datepicker table tr td.today.disabled:hover:active, .datepicker table tr td.today.disabled:hover.active {
+  color: #fff;
+  background-color: #236040;
+  border-color: #de0d1e;
+}
+
+.datepicker table tr td.today:hover, .datepicker table tr td.today:hover:hover, .datepicker table tr td.today.disabled:hover, .datepicker table tr td.today.disabled:hover:hover {
+  color: #fff;
+  background-color: #f10e20;
+  border-color: #de0d1e;
+}
+
+.datepicker table tr td.today:hover:hover {
+  color: #fff;
+}
+
+.datepicker table tr td.today.active:hover {
+  color: #fff;
+}
+
+.datepicker table tr td.selected, .datepicker table tr td.selected:hover, .datepicker table tr td.selected.disabled, .datepicker table tr td.selected.disabled:hover {
+  color: #fff;
+  background-color: #888888;
+  border-color: #888888;
+  background-image: none;
+}
+
+.datepicker table tr td.selected:focus, .datepicker table tr td.selected:active, .datepicker table tr td.selected.active, .datepicker table tr td.selected:hover:focus, .datepicker table tr td.selected:hover:active, .datepicker table tr td.selected:hover.active, .datepicker table tr td.selected.disabled:focus, .datepicker table tr td.selected.disabled:active, .datepicker table tr td.selected.disabled.active, .datepicker table tr td.selected.disabled:hover:focus, .datepicker table tr td.selected.disabled:hover:active, .datepicker table tr td.selected.disabled:hover.active {
+  color: #fff;
+  background-color: #888888;
+  border-color: dimgray;
+}
+
+.datepicker table tr td.selected:hover, .datepicker table tr td.selected:hover:hover, .datepicker table tr td.selected.disabled:hover, .datepicker table tr td.selected.disabled:hover:hover {
+  color: #fff;
+  background-color: #747474;
+  border-color: dimgray;
+}
+
+.datepicker table tr td.active, .datepicker table tr td.active:hover, .datepicker table tr td.active.disabled, .datepicker table tr td.active.disabled:hover {
+  color: #fff;
+  background-color: #236040;
+  border-color: #236040;
+  background-image: none;
+  background-image: linear-gradient(to bottom, #236040 30%, #e70e1f 70%);
+}
+
+.datepicker table tr td.active:focus, .datepicker table tr td.active:active, .datepicker table tr td.active.active, .datepicker table tr td.active:hover:focus, .datepicker table tr td.active:hover:active, .datepicker table tr td.active:hover.active, .datepicker table tr td.active.disabled:focus, .datepicker table tr td.active.disabled:active, .datepicker table tr td.active.disabled.active, .datepicker table tr td.active.disabled:hover:focus, .datepicker table tr td.active.disabled:hover:active, .datepicker table tr td.active.disabled:hover.active {
+  color: #fff;
+  background-color: #236040;
+  border-color: #de0d1e;
+}
+
+.datepicker table tr td.active:hover, .datepicker table tr td.active:hover:hover, .datepicker table tr td.active.disabled:hover, .datepicker table tr td.active.disabled:hover:hover {
+  color: #fff;
+  background-color: #f10e20;
+  border-color: #de0d1e;
+}
+
+.datepicker table tr td span:hover {
+  color: #fff;
+}
+
+.datepicker table tr td span.active, .datepicker table tr td span.active:hover, .datepicker table tr td span.active.disabled, .datepicker table tr td span.active.disabled:hover {
+  color: #fff;
+  background-color: #236040;
+  border-color: #236040;
+  background-image: none;
+}
+
+.datepicker table tr td span.active:focus, .datepicker table tr td span.active:active, .datepicker table tr td span.active.active, .datepicker table tr td span.active:hover:focus, .datepicker table tr td span.active:hover:active, .datepicker table tr td span.active:hover.active, .datepicker table tr td span.active.disabled:focus, .datepicker table tr td span.active.disabled:active, .datepicker table tr td span.active.disabled.active, .datepicker table tr td span.active.disabled:hover:focus, .datepicker table tr td span.active.disabled:hover:active, .datepicker table tr td span.active.disabled:hover.active {
+  color: #fff;
+  background-color: #236040;
+  border-color: #de0d1e;
+}
+
+.datepicker table tr td span.active:hover, .datepicker table tr td span.active:hover:hover, .datepicker table tr td span.active.disabled:hover, .datepicker table tr td span.active.disabled:hover:hover {
+  color: #fff;
+  background-color: #f10e20;
+  border-color: #de0d1e;
+}
+
+.datepicker th.datepicker-switch {
+  background-color: #236040;
+  color: #fff;
+}
+
+.datepicker th.datepicker-switch:hover, .datepicker th.datepicker-switch:focus, .datepicker th.datepicker-switch:active {
+  background-color: #236040;
+}
+
+.datepicker thead tr:first-child th,
+.datepicker tfoot tr th {
+  color: #fff;
+}
+
+.datepicker thead tr:first-child th:hover,
+.datepicker tfoot tr th:hover {
+  background: #236040;
+}
+
+.datepicker .prev, .datepicker .next {
+  background-color: #236040;
+}
+
+.datepicker .prev:hover, .datepicker .next:hover {
+  background: #236040;
+}
+
+/**        ¬ timepicker dropdown time         **/
+.ui-timepicker-wrapper {
+  border-color: #236040;
+}
+
+.ui-timepicker-list li:hover, .ui-timepicker-list li:focus,
+.ui-timepicker-list li.ui-timepicker-selected:hover,
+.ui-timepicker-list li.ui-timepicker-selected:focus {
+  background-color: #236040;
+  color: #fff;
+}
+
+.ui-timepicker-list li.ui-timepicker-selected {
+  background-color: #236040;
+  color: #fff;
+}
+
+/**        ¬ select2         **/
+.select2-container.select2-container--open .select2-selection--single {
+  border-color: #236040;
+}
+
+.select2-container.select2-container--open .select2-selection--single .select2-selection__arrow b {
+  border-color: #236040 transparent transparent;
+}
+
+.select2-container.select2-container--open .select2-selection--single:hover {
+  border-color: #236040;
+}
+
+.select2-container .select2-dropdown {
+  border-color: #236040;
+}
+
+.select2-container .select2-dropdown .select2-search__field:focus {
+  border-color: #236040;
+}
+
+.select2-container .select2-results__option--highlighted[aria-selected] {
+  color: #fff;
+  background-color: #236040;
+}
+
+.instagram-list__link:after {
+  background-color: #236040;
+}
+
+/**        ¬ list default         **/
+.list-default > li:before {
+  background-color: #236040;
+}
+
+.list-default > li > a {
+  color: #236040;
+}
+
+.list-default--accent li:before {
+  background-color: #fff;
+}
+
+/**        ¬ list-category         **/
+.list-category > li > a {
+  color: #236040;
+}
+
+/**        ¬ contacts list regular         **/
+.contacts-list-regular > li .icon {
+  color: #236040;
+}
+
+.contacts-list-regular > li > a {
+  color: inherit;
+}
+
+/**        ¬ social list         **/
+.social-list > li a {
+  color: #236040;
+}
+
+.social-list > li a .fa:last-child {
+  color: #fff;
+}
+
+/**        ¬ video         **/
+.video-contain.hover .video-contain__bg:after {
+  background-color: #236040;
+}
+
+.btn-play:after {
+  border-color: transparent transparent transparent #236040;
+}
+
+/**        ¬ animation settings        **/
+.over-hover-link .icon,
+.over-fade-link .icon {
+  color: #fff;
+}
+
+.over-hover-link .over {
+  background-color: rgba(243, 53, 68, 0.8);
+}
+
+.over-fade-link {
+  background-color: rgba(243, 53, 68, 0.8);
+}
+
+/**        ¬ isi effect for buttons         **/
+/**        ¬ cost         **/
+.cost-current {
+  color: #236040;
+}
+
+/**        ¬ navbar categories         **/
+.navbar-panel.navbar-accent .navbar-header {
+  background-color: #236040;
+}

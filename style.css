@@ -102,8 +102,8 @@ a:hover, a:focus {
 
 a.link-accent, .blog-tags > li a, a.post-comment__reply, .list-overview > li a {
   line-height: 1.4;
-  color: #f33544;
-  border-bottom: 1px solid #f33544;
+  color: #236040;
+  border-bottom: 1px solid #236040;
   text-decoration: none;
 }
 
@@ -118,7 +118,7 @@ a.link-accent:focus, .blog-tags > li a:focus, a.post-comment__reply:focus, .list
 }
 
 a.link-title:hover, a.link-title:focus {
-  color: #f33544;
+  color: #236040;
 }
 
 img, svg, .icon {
@@ -173,14 +173,14 @@ html[data-agent*="Trident"] .svg-filter {
 
 .bg-init,
 .animsition-overlay {
-  background-color: #f33544;
+  background-color: #236040;
 }
 
 /**        ¬ preloader start window hero         **/
 #preloader {
   width: 100%;
   height: 100%;
-  background: #f33544;
+  background: #236040;
   position: fixed;
   z-index: 9999999;
   left: 0;
@@ -344,11 +344,11 @@ blockquote footer cite {
 }
 
 .bg-danger {
-  background-color: #f33544;
+  background-color: #236040;
 }
 
 .text-danger {
-  color: #f33544;
+  color: #236040;
 }
 
 /**************************************
@@ -449,7 +449,7 @@ blockquote footer cite {
 }
 
 .navbar .navbar-header {
-  background-color: #f33544;
+  background-color: #236040;
   color: #fff;
 }
 
@@ -799,7 +799,7 @@ blockquote footer cite {
   line-height: 18px;
   text-align: center;
   color: #fff;
-  background-color: #f33544;
+  background-color: #236040;
   border-radius: 50%;
   z-index: 2;
 }
@@ -1032,7 +1032,7 @@ blockquote footer cite {
   .navbar .navbar-header {
     float: none;
     height: 50px;
-    background-color: #f33544;
+    background-color: #236040;
   }
   .navbar .navbar-brand {
     -webkit-flex-direction: row;
@@ -1069,16 +1069,16 @@ blockquote footer cite {
 
 /**        ¬ navbar themes         **/
 .navbar-accent {
-  background-color: #f33544;
+  background-color: #236040;
   color: #fff;
 }
 
 .navbar-accent .navbar-brand {
-  color: #f33544;
+  color: #236040;
 }
 
 .navbar-accent .navbar-brand:hover, .navbar-accent .navbar-brand:focus {
-  color: #f33544;
+  color: #236040;
 }
 
 .navbar-accent .navbar-header,
@@ -1199,12 +1199,12 @@ blockquote footer cite {
 .divider-decor {
   display: inline-block;
   width: 6.25em;
-  border-top: 2px solid #f33544;
+  border-top: 2px solid #236040;
   margin: 5px 0 1em;
 }
 
 .divider-decor > * {
-  border-top: 2px solid #f33544;
+  border-top: 2px solid #236040;
   margin: 5px auto 0;
 }
 
@@ -1243,7 +1243,7 @@ blockquote footer cite {
   width: 100%;
   height: 2px;
   margin-top: 2.1875em;
-  border: 1px solid #f33544;
+  border: 1px solid #236040;
   z-index: 0;
 }
 
@@ -1325,7 +1325,7 @@ blockquote footer cite {
   content: '';
   display: inline-block;
   width: 60px;
-  border: 1px solid #f33544;
+  border: 1px solid #236040;
 }
 
 .section-header--white .divider:after,
@@ -1396,7 +1396,7 @@ blockquote footer cite {
 
 .intro-page-tuning:after {
   left: 50%;
-  background-color: #f33544;
+  background-color: #236040;
   -webkit-transform-origin: left bottom;
           transform-origin: left bottom;
   -webkit-transform: skewX(-11deg);
@@ -1473,7 +1473,7 @@ blockquote footer cite {
 }
 
 .parallax-repeat.accent:before {
-  background-color: #f33544;
+  background-color: #236040;
   opacity: 0.96;
 }
 
@@ -1500,7 +1500,7 @@ blockquote footer cite {
 }
 
 .bg-accent:after {
-  background-color: #f33544;
+  background-color: #236040;
 }
 
 .blog-list-post__bottom, .blog-grid-post__bottom {
@@ -1761,7 +1761,7 @@ blockquote footer cite {
   width: 100%;
   font-size: 6rem;
   vertical-align: top;
-  color: #f33544;
+  color: #236040;
 }
 
 .repair-row-service .img-wrap .icon:before,
@@ -2349,7 +2349,7 @@ blockquote footer cite {
   margin-right: 0.21667em;
   font-size: 3.75em;
   text-align: center;
-  color: #f33544;
+  color: #236040;
 }
 
 /**        ¬ maps         **/
@@ -2739,7 +2739,7 @@ blockquote footer cite {
   line-height: 1;
   text-align: center;
   color: #fff;
-  background-color: #f33544;
+  background-color: #236040;
   z-index: 2;
 }
 
@@ -2748,7 +2748,7 @@ blockquote footer cite {
   position: absolute;
   left: 0;
   bottom: -10px;
-  border: 10px solid #f33544;
+  border: 10px solid #236040;
   border-width: 10px 32px;
   border-bottom-color: transparent !important;
 }
@@ -2936,7 +2936,7 @@ blockquote footer cite {
 
 .section-pricing__list .cost {
   font-weight: 700;
-  color: #f33544;
+  color: #236040;
 }
 
 .section-pricing__list .pricing-banner {
@@ -2966,7 +2966,7 @@ blockquote footer cite {
 }
 
 .section-pricing__list .pricing-card .over-hover-link .over {
-  background-color: #f33544;
+  background-color: #236040;
 }
 
 .section-pricing__list .pricing-card__body {
@@ -3645,7 +3645,7 @@ blockquote footer cite {
 
 /**        ¬ buttons theme         **/
 .btn-accent .btn-over {
-  background-color: #f33544;
+  background-color: #236040;
 }
 
 .btn-accent .btn-text {
@@ -3700,7 +3700,7 @@ blockquote footer cite {
   width: 19px;
   height: 1px;
   margin-top: 9px;
-  background-color: #f33544;
+  background-color: #236040;
 }
 
 .btn-close__bar:last-child {
@@ -3803,7 +3803,7 @@ blockquote footer cite {
 }
 
 .breadcrumb > li a {
-  color: #f33544;
+  color: #236040;
 }
 
 .breadcrumb > li a:hover {
@@ -3883,7 +3883,7 @@ blockquote footer cite {
 }
 
 .panel--accent {
-  background-color: #f33544;
+  background-color: #236040;
 }
 
 .panel--dark {
@@ -3941,7 +3941,7 @@ blockquote footer cite {
 
 .question-panel__heading .panel-tab {
   display: block;
-  background-color: #f33544;
+  background-color: #236040;
   color: inherit;
   min-height: 56px;
   line-height: 1.4em;
@@ -4124,7 +4124,7 @@ blockquote footer cite {
   width: 48px;
   height: 48px;
   color: #fff;
-  background-color: #f33544;
+  background-color: #236040;
 }
 
 .btn-control.prev > .fa, .btn-control.next > .fa {
@@ -4199,7 +4199,7 @@ blockquote footer cite {
 
 .control-carousel__dots > div > span:focus,
 .control-carousel__dots > div.active > span {
-  background-color: #f33544;
+  background-color: #236040;
 }
 
 @media (max-width: 767px) {
@@ -4247,7 +4247,7 @@ blockquote footer cite {
 }
 
 .carousel-track .center .carousel-track__item:before {
-  border-color: #f33544;
+  border-color: #236040;
 }
 
 .carousel-track .center .img-filter {
@@ -4269,7 +4269,7 @@ blockquote footer cite {
   right: 0;
   margin: 16px 16px 0 0;
   padding: 0;
-  background-color: #f33544;
+  background-color: #236040;
   vertical-align: middle;
   text-shadow: none;
   border-width: 0;
@@ -4337,7 +4337,7 @@ blockquote footer cite {
 }
 
 .gallery-controls .indicator > li.active:after {
-  border-color: #f33544;
+  border-color: #236040;
 }
 
 .gallery-controls .btn {
@@ -4457,7 +4457,7 @@ blockquote footer cite {
   padding: 0 17px;
   height: 46px;
   line-height: 46px;
-  color: #f33544;
+  color: #236040;
   background-color: transparent;
   border-width: 0;
 }
@@ -4525,9 +4525,9 @@ blockquote footer cite {
   padding: 17px 15px;
   font: normal 1em/1 "Raleway", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
-  color: #f33544;
+  color: #236040;
   letter-spacing: 0.35em;
-  border: 1px solid #f33544;
+  border: 1px solid #236040;
   z-index: 0;
 }
 
@@ -4540,8 +4540,8 @@ blockquote footer cite {
 
 .gallery-filter > li > a:focus, .gallery-filter > li > a:active {
   color: #fff;
-  background-color: #f33544;
-  border-color: #f33544;
+  background-color: #236040;
+  border-color: #236040;
 }
 
 @media (min-width: 768px) {
@@ -4571,7 +4571,7 @@ blockquote footer cite {
   height: 18px;
   top: -7px;
   left: -9px;
-  border: 4px solid #f33544;
+  border: 4px solid #236040;
   border-radius: 50%;
   background: #fff;
   box-shadow: none;
@@ -4583,7 +4583,7 @@ blockquote footer cite {
 }
 
 .price-slider .noUi-connect {
-  background: #f33544;
+  background: #236040;
   box-shadow: none;
   transition: background 300ms;
   cursor: pointer;
@@ -4738,7 +4738,7 @@ blockquote footer cite {
 }
 
 .check-wrap .form-checkbox:checked + .fa {
-  color: #f33544;
+  color: #236040;
 }
 
 @media (max-width: 991px) {
@@ -4777,7 +4777,7 @@ blockquote footer cite {
   left: 3px;
   width: 6px;
   height: 6px;
-  background-color: #f33544;
+  background-color: #236040;
 }
 
 .check-color {
@@ -4928,7 +4928,7 @@ button[type="submit"].disabled {
 
 /**        ¬ validation styles         **/
 .has-error {
-  color: #f33544;
+  color: #236040;
 }
 
 .has-error .form-control,
@@ -4937,7 +4937,7 @@ button[type="submit"].disabled {
 }
 
 .has-error .form-control {
-  border-color: #f33544;
+  border-color: #236040;
   box-shadow: none;
 }
 
@@ -4959,7 +4959,7 @@ button[type="submit"].disabled {
 }
 
 .has-error .form-control:focus {
-  border-color: #f33544;
+  border-color: #236040;
   box-shadow: none;
 }
 
@@ -4990,7 +4990,7 @@ button[type="submit"].disabled {
   right: 0;
   width: 42px;
   height: 42px;
-  background-color: #f33544;
+  background-color: #236040;
   color: #fff;
 }
 
@@ -5022,7 +5022,7 @@ button[type="submit"].disabled {
 .datepicker .prev, .datepicker .next {
   font-family: FontAwesome;
   text-indent: -9999px;
-  background-color: #f33544;
+  background-color: #236040;
 }
 
 .datepicker .prev:after, .datepicker .next:after {
@@ -5036,7 +5036,7 @@ button[type="submit"].disabled {
 }
 
 .datepicker .prev:hover, .datepicker .next:hover {
-  background: #f33544;
+  background: #236040;
 }
 
 .datepicker .prev:hover:before, .datepicker .next:hover:before {
@@ -5060,7 +5060,7 @@ button[type="submit"].disabled {
 .ui-timepicker-wrapper {
   height: 210px;
   width: 100px;
-  border: 1px solid #f33544;
+  border: 1px solid #236040;
   border-width: 0;
 }
 
@@ -5071,12 +5071,12 @@ button[type="submit"].disabled {
 .ui-timepicker-list li:hover, .ui-timepicker-list li:focus,
 .ui-timepicker-list li.ui-timepicker-selected:hover,
 .ui-timepicker-list li.ui-timepicker-selected:focus {
-  background-color: #f33544;
+  background-color: #236040;
   color: #fff;
 }
 
 .ui-timepicker-list li.ui-timepicker-selected {
-  background-color: #f33544;
+  background-color: #236040;
   color: #fff;
 }
 
@@ -5116,21 +5116,21 @@ button[type="submit"].disabled {
 }
 
 .select2-container.select2-container--open .select2-selection--single {
-  border-color: #f33544;
+  border-color: #236040;
 }
 
 .select2-container.select2-container--open .select2-selection--single .select2-selection__arrow b {
   border-width: 5px 4px 0 4px;
-  border-color: #f33544 transparent transparent transparent;
+  border-color: #236040 transparent transparent transparent;
 }
 
 .select2-container.select2-container--open .select2-selection--single:hover {
-  border-color: #f33544;
+  border-color: #236040;
 }
 
 .select2-container .select2-dropdown {
   top: -1px;
-  border: 1px solid #f33544;
+  border: 1px solid #236040;
   border-radius: 0;
 }
 
@@ -5154,7 +5154,7 @@ button[type="submit"].disabled {
 }
 
 .select2-container .select2-dropdown .select2-search__field:focus {
-  border-color: #f33544;
+  border-color: #236040;
 }
 
 .select2-container .select2-results__option {
@@ -5167,7 +5167,7 @@ button[type="submit"].disabled {
 
 .select2-container .select2-results__option--highlighted[aria-selected] {
   color: #fff;
-  background-color: #f33544;
+  background-color: #236040;
 }
 
 /**************************************
@@ -5195,7 +5195,7 @@ button[type="submit"].disabled {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #f33544;
+  background-color: #236040;
   opacity: 0;
 }
 
@@ -5228,12 +5228,12 @@ button[type="submit"].disabled {
   width: 8px;
   height: 8px;
   margin-top: 0.75em;
-  background-color: #f33544;
+  background-color: #236040;
 }
 
 .list-default > li > a {
   text-decoration: underline;
-  color: #f33544;
+  color: #236040;
 }
 
 .list-default > li > a:hover {
@@ -5290,7 +5290,7 @@ button[type="submit"].disabled {
 
 .list-category > li > a {
   text-decoration: none;
-  color: #f33544;
+  color: #236040;
 }
 
 .list-category > li > a:hover {
@@ -5322,7 +5322,7 @@ button[type="submit"].disabled {
   font-size: 0.875em;
   line-height: 2em;
   vertical-align: top;
-  color: #f33544;
+  color: #236040;
 }
 
 .contacts-list-regular > li > a {
@@ -5350,7 +5350,7 @@ button[type="submit"].disabled {
 .social-list > li a {
   display: block;
   font-size: 16px;
-  color: #f33544;
+  color: #236040;
 }
 
 .social-list > li a .fa:last-child {
@@ -5404,7 +5404,7 @@ button[type="submit"].disabled {
 }
 
 .video-contain.hover .video-contain__bg:after {
-  background-color: #f33544;
+  background-color: #236040;
 }
 
 .video-contain.active .video-contain__bg {
@@ -5435,7 +5435,7 @@ button[type="submit"].disabled {
   margin: -22px 0 0 -10px;
   border-style: solid;
   border-width: 22px 28px;
-  border-color: transparent transparent transparent #f33544;
+  border-color: transparent transparent transparent #236040;
 }
 
 /**        ¬ animation settings        **/
@@ -5688,7 +5688,7 @@ a.link-accent, .blog-tags > li a, a.post-comment__reply, .list-overview > li a, 
 }
 
 .cost-current {
-  color: #f33544;
+  color: #236040;
 }
 
 .cost-current,
@@ -5741,7 +5741,7 @@ a.link-accent, .blog-tags > li a, a.post-comment__reply, .list-overview > li a, 
 }
 
 .navbar-panel.navbar-accent .navbar-header {
-  background-color: #f33544;
+  background-color: #236040;
 }
 
 .navbar-panel .navbar-header .navbar-toggle {
